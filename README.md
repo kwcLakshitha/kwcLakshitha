@@ -10,7 +10,7 @@ Currently learning and working with **Java, Python, and the MERN stack**.
 - 🌱 I’m currently learning: **Full-Stack Development with MERN & advanced Python concepts**  
 - 👯 I’m looking to collaborate on: **Java, Python, and MERN-based open-source projects**  
 - 💬 Ask me about: **Java, MySQL, Python, React, and REST APIs**  
-- 📫 How to reach me: **lakshithawithanage@gmail.com** | [LinkedIn Profile](https://www.linkedin.com/in/lakshitha-vithanage-04812b31a/)  
+- 📫 How to reach me: vithanagelakshitha55@gmail.com | [LinkedIn Profile](linkedin.com/in/lakshitha-vithanage-04812b31a)  
 - ⚡ Fun fact: **I enjoy solving real-world problems using code and building creative software solutions.**
 
 ---
@@ -68,9 +68,9 @@ Currently learning and working with **Java, Python, and the MERN stack**.
 ## 📫 Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/lakshitha-vithanage-04812b31a/" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
+  <img alt="linkedin.com/in/lakshitha-vithanage-04812b31a" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:lakshithawithanage@gmail.com">
-  <img alt="Email" src="https://img.shields.io/badge/Email-D14836.svg?style=flat&logo=gmail&logoColor=white"/>
+<a href="mailto:vithanagelakshitha55@gmail.com">
+  <img alt="vithanagelakshitha55@gmail.com" src="https://img.shields.io/badge/Email-D14836.svg?style=flat&logo=gmail&logoColor=white"/>
 </a>
 </p>
